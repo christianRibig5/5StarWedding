@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StarWeddingApp</string>
+    <string name="dashboard_message">This is dashboard</string>
+    <string name="welcome_message"><![CDATA[Chris & Somy Wedding Program]]></string>
+    <string name="reception_program">Reception Program</string>
+    <string name="order_of_photo">Order of Photograph</string>
+    <string name="marriage_photos">Marriage Photos</string>
+    <string name="bridal_train">Bridal Train</string>
+    <string name="chisom_christian"><![CDATA[Chisom & Christian, 2019]]></string>
+</resources>
